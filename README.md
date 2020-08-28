@@ -9,7 +9,7 @@
 [フリマWEBサイトアプリケーション](http://54.92.4.10/)
  
  
- Basic認証(ID:user80/ pass:userh80)
+ Basic認証(ID:user80/pass:userh80)
 
 ## Test User
 * 購入者用アカウント
